@@ -1,2 +1,2 @@
 # GridPane Nginx Configs
-Kickass Awesome Sauciness
+Kickass Awesome Super Sauciness
