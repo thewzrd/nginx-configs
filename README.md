@@ -1,1 +1,1 @@
-# nginx-configs
+# GridPane Nginx Configs
