@@ -1,5 +1,6 @@
 # #
 # GridPane Nginx FastCGI Parameter Definitions
+# Version 1.2.0
 # #
 fastcgi_param   CONTENT_LENGTH      $content_length;
 fastcgi_param   CONTENT_TYPE        $content_type;
